@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(124, 182, 163);
+    font-family: Arial;
+}
+
+#titulo-principal {
+    color: rgb(161, 18, 8);
+    text-align: center;
+}
+
+.parrafo {
+    color: rgb(7, 5, 12);
+    font-size: 18px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif
+}
